@@ -52,7 +52,7 @@ Benchmarks will be run using 4, 8 and 16 worker nodes.
   - Work-time Variation
   - Memory Usage
   - CPU Usage
-  - Completion
+  - Completion Time
 - Subjective analysis
   - Ease of development
   - External Resources
