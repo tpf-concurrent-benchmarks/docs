@@ -4,7 +4,7 @@
 
 ![robustness](img/ip_robustness.png)
 
-The system is composed by a manager node and a number format, resolution and size worker nodes.
+The system is composed by a manager node and a number of format, resolution and size worker nodes.
 
 The work is distributed through messaging, but the files are accessed through a shared file system.
 
