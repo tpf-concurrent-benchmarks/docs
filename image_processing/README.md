@@ -18,19 +18,16 @@ The work is distributed through messaging, but the files are accessed through a 
 
 ### Data
 
-[TBD](https://akridata.ai/datasets/) dataset will be used for the benchmarks.
+[BIRDS 525 SPECIES](https://www.kaggle.com/datasets/gpiosenka/100-bird-species) dataset will be used for the benchmarks.
+This dataset is further augmented using [image_multiplicator.py](https://github.com/tpf-concurrent-benchmarks/various/blob/main/image_processing/image_multiplicator.py)
 
 ## Benchmarks
 
-Benchmarks will be run using [TBD] worker nodes.
+Benchmarks will be run using 2, 4 and 6 worker nodes (of each type).
 
 - Measurements
-  - Worker Throughput
-  - Combined Throughput
-  - Work-time Variation
-  - Memory Usage
-  - CPU Usage
-  - Completion Time
-- Subjective analysis
-  - Ease of development
-  - External Resources
+  - CPU usage
+  - Node throughput and Combined throughput
+  - Memory usage
+  - Network usage
+  - Coefficient of variation of worktime and results produced
