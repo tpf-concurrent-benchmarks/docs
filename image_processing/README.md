@@ -26,6 +26,7 @@ This dataset is further augmented using [image_multiplicator.py](https://github.
 Benchmarks will be run using 2, 4 and 6 worker nodes (of each type).
 
 - Measurements
+  - Completion Time
   - CPU usage
   - Node throughput and Combined throughput
   - Memory usage
