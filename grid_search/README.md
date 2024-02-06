@@ -47,12 +47,9 @@ The intervals to be evaluated, for each of the 3 dimensions, is [-600, 600, 0.2]
 Benchmarks will be run using 4, 8 and 16 worker nodes.
 
 - Measurements
-  - Worker Throughput
-  - Combined Throughput
-  - Work-time Variation
-  - Memory Usage
-  - CPU Usage
   - Completion Time
-- Subjective analysis
-  - Ease of development
-  - External Resources
+  - CPU usage
+  - Node throughput and Combined throughput
+  - Memory usage
+  - Network usage
+  - Coefficient of variation of worktime and results produced
