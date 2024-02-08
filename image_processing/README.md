@@ -13,8 +13,8 @@ The work is distributed through messaging, but the files are accessed through a 
 ### Processes
 
 - Format: Converts an image into png format.
-- Resolution: Resizes an image to a given resolution. The chosen resolution is: [TBD]
-- Size: Resizes an image to a given size. The chosen size is: [TBD]
+- Resolution: Resizes an image to a given resolution. The chosen resolution is: 100x100
+- Size: Resizes an image to a given size. The chosen size is: 30x30
 
 ### Data
 
