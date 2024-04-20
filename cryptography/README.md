@@ -4,7 +4,7 @@
 
 ### Implementation
 
-The AES-128 algorithm was implemented according to the [standard](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197-upd1.pdf)
+The AES-128 algorithm was implemented according to the [standard](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197-upd1.pdf) with some optimizations based on the recommendations found [here](https://crypto.stackexchange.com/questions/71204/how-are-these-aes-mixcolumn-multiplication-tables-calculated/71206#71206)
 
 ### Data
 
