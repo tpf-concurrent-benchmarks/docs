@@ -32,3 +32,5 @@ Benchmarks will be run using 2, 4 and 6 worker nodes (of each type).
   - Memory usage
   - Network usage
   - Coefficient of variation of worktime and results produced
+
+> The metrics dashboard can be found [here](./Image%20Processing%20Dashboard.json)

@@ -53,3 +53,5 @@ Benchmarks will be run using 4, 8 and 16 worker nodes.
   - Memory usage
   - Network usage
   - Coefficient of variation of worktime and results produced
+
+> The metrics dashboard can be found [here](./Grid%20Search%20Dashboard.json)
