@@ -26,4 +26,4 @@ Benchmarks will be run using 4 threads/processes.
   - GPU usage
   - Root Mean Squared Error (RMSE)
 
-> The metrics dashboard can be found [here](./todo.json)
+> The metrics dashboard can be found [here](./Neural%20Network%20Dashboard.json)
